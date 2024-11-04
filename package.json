@@ -1,0 +1,15 @@
+{
+  "name": "trainingbackend",
+  "version": "1.0.0",
+  "description": "Hitesh Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "Chirag",
+  "license": "ISC"
+}
